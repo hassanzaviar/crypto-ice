@@ -1,6 +1,6 @@
-# Crypto Ice V 2.0
+# Crypto Ice APK V 2.0
 
-Crypto Ice is an app that helps you mine cryptocurrency directly from your Android device. This APK allows you to enjoy the process of crypto mining with an easy-to-use interface and powerful features.
+Crypto Ice is an app and apk that helps you mine cryptocurrency directly from your Android device. This APK allows you to enjoy the process of crypto mining with an easy-to-use interface and powerful features.
 
 ## Features
 - **Crypto Mining**: Start mining various cryptocurrencies directly from your device.
@@ -20,7 +20,7 @@ This app is intended for educational purposes and fun simulation of crypto minin
 
 ## Support
 For support or queries, you can contact us at:
-- **Email**: [info@zavify.com](mailto:info@zavify.com)
+- **Email**: [admin@zavify.com](mailto:admin@zavify.com)
 - **Website**: [zavify.com](https://zavify.com)
 
 ## Privacy and Data
